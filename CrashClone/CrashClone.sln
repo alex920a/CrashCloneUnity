@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrashClone.CSharp", "CrashClone.CSharp.csproj", "{B8ADBF45-A802-27AF-41F4-C7DB19C4744B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrashClone.CSharp.Editor", "CrashClone.CSharp.Editor.csproj", "{4C99EC09-0162-B51D-9D40-3A8E08312900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8ADBF45-A802-27AF-41F4-C7DB19C4744B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8ADBF45-A802-27AF-41F4-C7DB19C4744B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8ADBF45-A802-27AF-41F4-C7DB19C4744B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8ADBF45-A802-27AF-41F4-C7DB19C4744B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C99EC09-0162-B51D-9D40-3A8E08312900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C99EC09-0162-B51D-9D40-3A8E08312900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C99EC09-0162-B51D-9D40-3A8E08312900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C99EC09-0162-B51D-9D40-3A8E08312900}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
