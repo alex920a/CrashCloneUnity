@@ -14,7 +14,7 @@ public class CameraController : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        currentView = views[1];
+        currentView = views[0];
 	}
 
     private void Update()
@@ -37,6 +37,7 @@ public class CameraController : MonoBehaviour {
     }
 
 
+    //attivato al momento del click new game
     internal void TranslateToFirstCharacter()
     {
         moving = true;
